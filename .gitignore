@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Data
+data/data.pickle
+data/number.pickle
+data/*/*.png
+data/*/*.jpg
+
+# Kaggle Data
+data/asl_alphabet_train/
+kaggle/train.csv
+kaggle/sequence_of_landmarks.json
+
+# Assets
+assets/capture_*.png
+assets/result_number.gif
+assets/result_number.mp4
+assets/result_ASL.gif
+assets/result_ASL.mp4
+assets/webcam.gif
+
+# Test Files
+test_webcam.py
+test_mediapipe.py
+create_gif.py
+test.py
+test.ipynb
