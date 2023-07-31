@@ -43,7 +43,7 @@ You can also create your own dataset by running **pipeline** in <kbd>train.ipynb
 To support the full functionality of our demo. You need the following models located in these paths:
 
 ```bash
-ASL-Finger-Spelling
+ASL-Finger-Spelling-To-Text
 └── classifier
     ├── classify_letter_model.p
     └── classify_number_model.p

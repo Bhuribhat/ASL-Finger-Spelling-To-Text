@@ -14,7 +14,7 @@ American Sign Language Fingerspelling Recognition: [Google I/O 2023](https://blo
 To support the full functionality of our demo. You need the following models located in these paths:
 
 ```bash
-ASL-Finger-Spelling
+ASL-Finger-Spelling-To-Text
 └── kaggle
     ├── character_to_prediction_index.json
     └── model
@@ -37,7 +37,7 @@ Your work may help move sign language recognition forward, making AI more access
 
 ## Getting Started Notebook
 
-> To get started quickly, feel free to take advantage of [this starter notebook](https://github.com/bit-intern-Pooh/ASL-Finger-Spelling/blob/main/kaggle/ASL_Walkthrough.ipynb).
+> To get started quickly, feel free to take advantage of [this starter notebook](https://github.com/Bhuribhat/ASL-Finger-Spelling-To-Text/blob/main/kaggle/ASL_Walkthrough.ipynb).
 
 
 ## Context
